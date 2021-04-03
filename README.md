@@ -1,0 +1,1 @@
+This is freeCodeAcademy's first course. As part of The Odin Project's course, I'm required to take on this project to move on.
